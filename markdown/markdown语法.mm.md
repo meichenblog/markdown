@@ -19,9 +19,9 @@
 > 不支持优酷，可以用youtube。
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ilg3gGewQ5U" frameborder="0" allowfullscreen></iframe>
 ## 跳转链接
-<a href="http://askunix.top/" target="_blank">跳到自己博客列表</a>
-跳到自己博客列表：<a href="http://askunix.top/" 
-target="_blank">http://askunix.top/</a>
+<a href="https://www.cnblogs.com/MeiCheng/" target="_blank">跳到自己博客列表</a>
+跳到自己博客列表：<a href="https://www.cnblogs.com/MeiCheng/" 
+target="_blank">https://www.cnblogs.com/MeiCheng/</a>
 ## 使用标准字体
 <font face="黑体">我是黑体字</font>
 <font face="微软雅黑">我是微软雅黑</font>
