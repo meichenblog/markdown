@@ -40,9 +40,10 @@ $$\left\{
 $$
 
 ## 带中括号的
-$$\left[
-\begin{matrix}
-1&2 \\  3&4 \\ 5&6
-\end{matrix}
-\right]
-$$
+>
+>$$\left[
+>\begin{matrix}
+>1&2 \\  3&4 \\ 5&6
+>\end{matrix}
+>\right]
+>$$
