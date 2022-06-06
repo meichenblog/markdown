@@ -13,3 +13,5 @@
 
 # JS饼图
 [ECharts](https://echarts.apache.org/handbook/zh/get-started/)
+
+[一款面向程序员的 Markdown 笔记应用](https://github.com/purocean/yn/blob/develop/README_ZH-CN.md)
