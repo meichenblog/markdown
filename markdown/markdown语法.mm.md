@@ -54,7 +54,7 @@ author: MeiChen
 + Vscode Blink Mind 思维导图
   + 只支持 保存为 .blinkmind 和 .bm 后缀文件
 + vscode-mindmap 脑图 
-  + 文件保存后缀.k会自动显示或者用快捷键ctrl/cmd + m显示, 
+  + 文件保存后缀.km会自动显示或者用快捷键ctrl/cmd + m显示, 
 + PlantUML 时序图
   + 文件后缀名*.pu, *.puml结尾,同时，还必须安装：Java 环境和Graphviz-Dot才能使用
 ---
