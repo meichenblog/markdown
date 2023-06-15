@@ -85,10 +85,10 @@ author: MeiChen
 
 ## 插入视频
 > 不支持优酷，可以用youtube。
-<iframe width="560" height="315" src="https://v.qq.com/x/cover/mzc00200ets769l/j0042w9d0xy.html?n_version=2021" frameborder="0" allowfullscreen></iframe>
-
-> 插入Gif必须是在线https://的gif 本地路径的gif无法显示 
+>  插入Gif必须是在线https://的gif 本地路径的gif无法显示 
 > 可以把本地的Gif上传到一个https://giphy.com/join?next=/create/gifmaker 网站上复制连接即可使用gif动图
+ 
+<iframe width="560" height="315" src="https://v.qq.com/x/cover/mzc00200ets769l/j0042w9d0xy.html?n_version=2021" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.xxxgit" frameborder="0" allowfullscreen></iframe>
 
