@@ -283,4 +283,7 @@ $$\left[
 \right]
 $$
 
+## 解决导出的HTML中文乱码问题
+- 须在编辑的markdown文件最开始添加如下代码，转换出来的HTML就不会出现中文乱码了
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
 
