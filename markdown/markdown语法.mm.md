@@ -286,4 +286,5 @@ $$
 ## 解决导出的HTML中文乱码问题
 - 须在编辑的markdown文件最开始添加如下代码，转换出来的HTML就不会出现中文乱码了
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
-
+## Markdown语法
+[markdown语法](http://blog.ruanyou.top/pages/ad247c4332211551/#%E5%9B%9B%E3%80%81%E6%A0%87%E9%A2%98)
