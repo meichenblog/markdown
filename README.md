@@ -28,4 +28,4 @@
 
 # 本地图片上传到云端，生成链接嵌入markdown中
 
-[imgbb](https://zh-cn.imgbb.com/)
+[床图](https://iui.su/pic.html)
