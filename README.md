@@ -29,3 +29,6 @@
 # 本地图片上传到云端，生成链接嵌入markdown中
 
 [床图](https://iui.su/pic.html)
+
+# B站短链接生成工具
+[bilitools](https://www.bilitools.top/t/4/)
