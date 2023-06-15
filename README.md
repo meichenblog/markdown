@@ -17,8 +17,10 @@
 [一款面向程序员的 Markdown 笔记应用](https://github.com/purocean/yn/blob/develop/README_ZH-CN.md)
 
 # 侧边栏
+
 [生成侧边栏目录]https://blog.csdn.net/jk418756/article/details/89213832
 
-# 将YouTube视频转换为markdown
+
+# 将Youtube视频插入Markdown文本中
 
 [Video to markdown](https://video-to-markdown.marcomontalbano.com/)
