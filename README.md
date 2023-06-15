@@ -29,6 +29,10 @@
 # 本地图片上传到云端，生成链接嵌入markdown中
 
 [床图](https://iui.su/pic.html)
+[locimg](https://locimg.com/)
 
 # B站短链接生成工具
 [bilitools](https://www.bilitools.top/t/4/)
+
+# MP4转换为GIF图像
+[aconvert](https://www.aconvert.com/cn/video/mp4-to-gif/)
