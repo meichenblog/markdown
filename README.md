@@ -24,3 +24,8 @@
 # 将Youtube视频插入Markdown文本中
 
 [Video to markdown](https://video-to-markdown.marcomontalbano.com/)
+
+
+# 本地图片上传到云端，生成链接嵌入markdown中
+
+[imgbb](https://zh-cn.imgbb.com/)
