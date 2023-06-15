@@ -2,6 +2,10 @@
 marp: true
 author: MeiChen
 ---
+
+
+
+
 <!-- TOC -->
 
 - [VS code 配置 markdown+ PPT写作配置指南](#vs-code-配置-markdown-ppt写作配置指南)
@@ -75,9 +79,11 @@ author: MeiChen
 ## 定义大小并剧中显示
 <div align=center><img width = '150' height = '150' src="https://图片地址"/></div>
 
-## 插入图像
-![](2022-06-11-13-20-13.png)
+## 插入本地图像
+![本地图像](2022-06-11-13-20-13.png)
 
+## 插入在线图片
+<a href="https://ibb.co/b50x1zq"><img src="https://i.ibb.co/b50x1zq/img001.jpg" alt="img001" border="0" /></a>
 
 
 ## 插入音乐
